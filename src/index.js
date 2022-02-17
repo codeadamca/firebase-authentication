@@ -4,13 +4,13 @@ import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, on
 import { GoogleAuthProvider, signInWithRedirect } from "https://www.gstatic.com/firebasejs/9.6.6/firebase-auth.js";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDfDSpjM9bsM78ZsBIbRVoEtW7T8nbhwJo",
-    authDomain: "humber-projects-340818.firebaseapp.com",
-    databaseURL: "https://humber-projects-340818-default-rtdb.firebaseio.com",
-    projectId: "humber-projects-340818",
-    storageBucket: "humber-projects-340818.appspot.com",
-    messagingSenderId: "859327946131",
-    appId: "1:859327946131:web:8806f702fc4be451ce9c66"
+    apiKey: "<KEY>",
+    authDomain: "<DOMAIN>",
+    databaseURL: "<DATABASE-URL>",
+    projectId: "<PROJECT-ID>",
+    storageBucket: "<BUCKET>",
+    messagingSenderId: "<SENDER-ID>",
+    appId: "<APP-ID>"
 };
 
 // Initialize Firebase
