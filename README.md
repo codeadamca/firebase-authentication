@@ -1,4 +1,4 @@
-# firebase-authentication
+# A Basic Introduction to Firebase and Authentication
 
 A basic example of a registration and sign up using Firebase Authentication with email and Google. 
 
