@@ -1,4 +1,4 @@
-# A Basic Introduction to Firebase and Authentication
+# Introduction to Firebase and Authentication
 
 A basic example of a registration and sign up using Firebase Authentication with email and Google. 
 
@@ -10,31 +10,32 @@ A basic example of a registration and sign up using Firebase Authentication with
 
 4. Create a new project using:
 
-```
+```sh
 npm init -y
 ```
 
 5. Then install Firebase:
 
-```
+```sh
 npm i firebase
 ```
 
-6. Create a folder called ```src``` and place the ```index.js``` and ```index.html``` file in the new ```src``` folder. 
+6. Create a folder called `src` and place the `index.js` and `index.html` file in the new `src` folder. 
 
-8. In the index.js file, change the Firebase credentials to your app. Your credentials can be found in the app settings. 
+8. In the `index.js` file, change the Firebase credentials to your app. Your credentials can be found in the app settings. 
 
 9. Test out the code using:
 
-```
+```sh
 npx serve src
 ```
+
+***
 
 ## Tutorial Requirements:
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Firebase](https://console.firebase.google.com/) 
-* [SerialPort NPM](https://www.npmjs.com/package/serialport)
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
