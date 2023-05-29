@@ -32,7 +32,7 @@ npx serve src
 
 ***
 
-## Tutorial Requirements:
+## Repo Resources
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Firebase](https://console.firebase.google.com/) 
